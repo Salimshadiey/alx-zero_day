@@ -1,1 +1,1 @@
-git project under progress
+git project under progress, part 2
